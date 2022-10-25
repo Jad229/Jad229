@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋, My name is Justin!
 
+## I'm a Front-End Developer and student. I love learning new technologies and I'm on the path to master my coding skills.
+
+### Here are some languages and tools that I have experience in:
+
+HTML CSS JAVASCRIPT NODEJS JQUERY BOOTSTRAP FIGMA GIT
 <!--
 **Jad229/Jad229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
