@@ -18,6 +18,7 @@
   <img src="https://user-images.githubusercontent.com/76543236/197661163-29b170c4-5595-4677-97d1-24fcc87345ce.svg" width="70" height="70">
   <img src="https://user-images.githubusercontent.com/76543236/197661164-ffdbad54-196f-4eca-a884-35b35659f220.svg" width="70" height="70">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="70" height="70">
 </p>
  
 ## 🌱 I’m currently learning
@@ -25,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="70" height="70">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="70" height="70">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="70" height="70">
 </p>
 
 ## 🔭 I’m currently working on 
