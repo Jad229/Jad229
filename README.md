@@ -24,7 +24,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="70" height="70">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="70" height="70">
-  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="70" height="70">
 </p>
 
 ## 🔭 I’m currently working on 
