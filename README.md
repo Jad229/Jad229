@@ -15,12 +15,16 @@
   <img src="https://user-images.githubusercontent.com/76543236/197658499-f2d94f4c-8022-433f-b4a7-b00437780da9.png" width="70" height="70">
   <img src="https://user-images.githubusercontent.com/76543236/197658502-5768895d-c41a-49b7-b1ad-5f4a8d48ef3b.svg" width="70" height="70">
   <img src="https://user-images.githubusercontent.com/76543236/197658503-74dec6cf-c08a-4405-8fd3-c567a8373eeb.svg" width="70" height="70">
+  <img src="https://user-images.githubusercontent.com/76543236/197661163-29b170c4-5595-4677-97d1-24fcc87345ce.svg" width="70" height="70">
+  <img src="https://user-images.githubusercontent.com/76543236/197661164-ffdbad54-196f-4eca-a884-35b35659f220.svg" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="70" height="70">
 </p>
  
 ## 🌱 I’m currently learning
 <p>
-  <img src="https://user-images.githubusercontent.com/76543236/197661163-29b170c4-5595-4677-97d1-24fcc87345ce.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197661164-ffdbad54-196f-4eca-a884-35b35659f220.svg" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="70" height="70">
+  
 </p>
 
 ## 🔭 I’m currently working on 
