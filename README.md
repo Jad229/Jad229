@@ -34,7 +34,7 @@
 #### repo: https://github.com/Jad229/Car-Page
 #### page: https://jad229.github.io/Car-Page/
 
-<img src="https://user-images.githubusercontent.com/76543236/197660466-cfa59be3-57f3-4f1a-a6af-af491de909a0.png" width="600" height="400">
+<img src="https://raw.githubusercontent.com/Jad229/Jad229/main/ideal-car-corp-thumbnail.png" width="600" height="400">
 
 
 <!--
