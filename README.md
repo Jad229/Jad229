@@ -31,9 +31,8 @@
 
 ## 🔭 I’m currently working on 
 
-#### repo: https://github.com/Jad229/Car-Page
-#### page: https://jad229.github.io/Car-Page/
-
+#### repo: [nextjs car dealer](https://github.com/Jad229/nextjs-car-dealer)
+#### page: [demo](https://jad229.github.io/nextjs-car-dealer)
 <img src="https://raw.githubusercontent.com/Jad229/Jad229/main/ideal-car-corp-thumbnail.png" width="900" height="500">
 
 
