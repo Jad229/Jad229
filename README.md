@@ -1,6 +1,6 @@
-## Hi there 👋, My name is Justin!
+## Welcome to my little space on the internet friend👋, My name is Justin!
 
-### I'm a Front-End Developer and student. I love learning new technologies and I'm on the path to master my coding skills.
+### I'm a Fullstack Developer and life-long student. I love learning new technologies and I'm on the path to master my coding skills.
 
 ## Here are some languages and tools that I have experience in:
 
