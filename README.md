@@ -32,9 +32,12 @@
 #### Bundlers
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-## 🔭 I’m currently working on 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jad229&theme=dark)](https://github.com/jad229/github-readme-stats)
 
 #### repo: [Gamified Habit Tracker](https://github.com/Jad229/lifequest)
+## 🔭 I’m currently working on 
+
 #### page: [Demo - LifeQuest: Gamified Habit Tracker](https://www.lifequesthq.xyz/)
 <img src="https://github.com/Jad229/Jad229/assets/76543236/8ff750aa-cc4a-4854-a881-5213a722fbf1" width="900" height="500">
 
