@@ -1,34 +1,37 @@
-## Welcome to my little space on the internet friend👋, My name is Justin!
+# Welcome to my little space on the internet friend👋, My name is Justin!
 
 ### I'm a Fullstack Developer and life-long student. I love learning new technologies and I'm on the path to master my coding skills.
 
-## Here are some languages and tools that I have experience in:
+#### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<p>
-  <img src="https://user-images.githubusercontent.com/76543236/197657329-133d4421-4618-4fc9-b2f4-6ec7999ed698.png" width="70" height="70"> 
-  <img src="https://user-images.githubusercontent.com/76543236/197658500-a4855598-a514-42c5-820e-46c93f4c76e6.png" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197658497-7bc37e0e-3825-4ba9-af3c-a1d731dcc111.png" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197658495-1239055b-9a14-4483-a6e8-43cc0c93493c.png" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197659294-e61a0b48-8230-41b3-8305-c2bf22b6f208.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197659295-3ecfef6c-1ca5-48c8-8f2b-53191f426610.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197659296-b70cceff-5ae8-4c13-8f87-0299bc91c3b1.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197658499-f2d94f4c-8022-433f-b4a7-b00437780da9.png" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197658502-5768895d-c41a-49b7-b1ad-5f4a8d48ef3b.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197658503-74dec6cf-c08a-4405-8fd3-c567a8373eeb.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197661163-29b170c4-5595-4677-97d1-24fcc87345ce.svg" width="70" height="70">
-  <img src="https://user-images.githubusercontent.com/76543236/197661164-ffdbad54-196f-4eca-a884-35b35659f220.svg" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="70" height="70">
-</p>
- 
-## 🌱 I’m currently learning
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="70" height="70">
-</p>
+#### Frameworks & Libraries
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Testing
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+#### Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### Bundlers
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ## 🔭 I’m currently working on 
 
 #### repo: [Gamified Habit Tracker](https://github.com/Jad229/lifequest)
