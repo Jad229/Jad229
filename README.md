@@ -1,6 +1,6 @@
 # Welcome to my little space on the internet friend👋, My name is Justin!
 
-### I'm a Fullstack Developer and life-long student. I love learning new technologies and I'm on the path to master my coding skills.
+### I'm a Fullstack Developer and I'm on a relentless quest to become a master developer. From frontend fascinations to backend adventures, I traverse the entire stack with the ethusiasm of a coding cosmonaut🚀. 
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,9 +35,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jad229&theme=dark)](https://github.com/jad229/github-readme-stats)
 
-#### repo: [Gamified Habit Tracker](https://github.com/Jad229/lifequest)
-## 🔭 I’m currently working on 
 
+## 🔭 I’m currently working on 
+#### repo: [Gamified Habit Tracker](https://github.com/Jad229/lifequest)
 #### page: [Demo - LifeQuest: Gamified Habit Tracker](https://www.lifequesthq.xyz/)
 <img src="https://github.com/Jad229/Jad229/assets/76543236/8ff750aa-cc4a-4854-a881-5213a722fbf1" width="900" height="500">
 
