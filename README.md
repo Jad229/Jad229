@@ -32,7 +32,7 @@
 ## 🔭 I’m currently working on 
 
 #### repo: [Gamified Habit Tracker](https://github.com/Jad229/lifequest)
-#### page: [Demo](https://www.lifequesthq.xyz/)
+#### page: [Demo - LifeQuest: Gamified Habit Tracker](https://www.lifequesthq.xyz/)
 <img src="https://github.com/Jad229/Jad229/assets/76543236/8ff750aa-cc4a-4854-a881-5213a722fbf1" width="900" height="500">
 
 
