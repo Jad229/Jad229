@@ -1,6 +1,6 @@
 # Welcome to my little space on the internet friend👋, My name is Justin!
 
-### I'm a Fullstack Developer and I'm on a relentless quest to become a master developer. I love working with gamified elements (...I am a gamer), and finding creative solutions to everyday problems. I'd love to collab with fellow engineers and create amazing works so don't be a stranger!
+### I'm a Software Developer and I'm on a relentless quest to become a master developer. I love working with gamified elements (...I am a gamer), and finding creative solutions to everyday problems. I'd love to collab with fellow engineers and create amazing works so don't be a stranger!
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
